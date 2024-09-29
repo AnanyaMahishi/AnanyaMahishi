@@ -1,6 +1,6 @@
 # Ananya Mahishi 💻 
 
-Hi ! I'm Ananya and I am someone who loves using a creative approach to solve problems and build impactful solutions. I have an interest in machine learning, data science and big data technologies. I thrive on building solutions from ground up and immersing myself in every facet of a project. My academic background in Computer Science and Engineering, combined with hands-on experience in various projects, startup and internship experience has equipped me with a robust skill set in Python, C/C++, R, AI frameworks, and cloud/web technologies.
+Hi ! I'm Ananya and I am someone who loves using a creative approach to solve problems and build impactful solutions. I have an interest in machine learning, data science and big data technologies. I thrive on building solutions from ground up and immersing myself in every facet of a project. My academic background in Computer Science and Engineering, combined with hands-on experience in various projects, startup and internship experience has equipped me with a robust skill set in Python, C/C++, R, SQL, Object Oriented Programming with Java, AI frameworks, Generics and cloud/web technologies.
 
 ---
 
